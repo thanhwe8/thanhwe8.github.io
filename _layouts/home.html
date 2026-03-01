@@ -16,6 +16,27 @@ layout: base
     {% assign posts = site.posts %}
   {% endif %}
 
+  <h2>Categories</h2>
+  <ul>
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}/categories/{{ category_name | slugify }}">
+            {{ category_name }}
+          </a>
+        </h3>
+
+        <ul>
+          {% for post in site.categories[category_name] %}
+            <li>
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </li>
+    {% endfor %}
+  </ul>
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
@@ -65,3 +86,4 @@ layout: base
     {%- endif %}
   {%- endif -%}
 </div>
+

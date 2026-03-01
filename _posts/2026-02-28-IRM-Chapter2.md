@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "IRM-C2"
+title:  "Interest Rate Models - Chapter 2"
 date:   2026-02-28 19:33:36 -0500
-categories: IRM
+categories: [Interest Rate Models]
 ---
 
 We discuss equivalent martingale measure via simple numerical example.
@@ -18,8 +18,8 @@ Table of Contents
 - [Example1](#Example-1)
 - [Definition 2.1.2](#D212)
 
-
 <!-- /TOC -->
+
 ### Example-1 
 Change probability measure to make the discounted price procecss martingale
 

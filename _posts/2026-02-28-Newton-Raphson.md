@@ -2,7 +2,7 @@
 layout: post
 title:  "Newton-Raphson's method"
 date:   2018-10-10 20:27:22 +0200
-categories: Financial Engineering
+categories: [Numerical methods]
 ---
 > In this post, we will give you overview of Newton-Raphson's algorithm which is used massively in Option Pricing.
 
