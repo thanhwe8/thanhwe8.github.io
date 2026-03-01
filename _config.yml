@@ -33,9 +33,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-hacker
-# remote_theme: "jekyll/minima"
+theme: minima
+# remote_theme: minima
+# e theme: jekyll-theme-hacker
 # remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 # theme: minimal-mistakes-jekyll
 # remote_theme: "mmistakes/minimal-mistakes"
