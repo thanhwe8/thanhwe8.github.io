@@ -2,7 +2,7 @@
 layout: post
 title:  "IRM-C2"
 date:   2026-02-28 19:33:36 -0500
-categories: IRM 
+categories: IRM
 ---
 
 We discuss equivalent martingale measure via simple numerical example.
