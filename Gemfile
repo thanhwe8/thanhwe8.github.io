@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "minima", "~> 2.5.1"
-gem "minimal"
+# gem "minimal"
 # gem "minimal-mistakes-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
