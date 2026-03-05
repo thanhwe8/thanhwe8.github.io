@@ -9,6 +9,7 @@ Below are some important note on stochastic calculus when you work with differen
 - Ito Isometry
 - Ito's product rule
 - Quadratic variation
+- Martingale Representation Theorem
 
 
 
