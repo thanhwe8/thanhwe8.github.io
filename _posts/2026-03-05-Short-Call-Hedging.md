@@ -5,7 +5,7 @@ date: 2026-03-05
 categories: [Random posts on mathematical finance]
 ---
 
->In this post, let's replicate and hedge short call option
+>In this post, let's replicate and hedge short call option when interest rate is assumed to be 0.
 
 Let $$S_t$$ follow Black-Scholes with zero rate $$r=0$$ as
 
