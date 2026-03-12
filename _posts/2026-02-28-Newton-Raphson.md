@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Newton-Raphson's method"
+title:  "Newton-Raphson's method - A simple example"
 date:   2018-10-10 20:27:22 +0200
-categories: [Numerical methods]
+categories: [Random posts on mathematical finance]
 ---
 > In this post, we will give you overview of Newton-Raphson's algorithm which is used massively in Option Pricing.
 
