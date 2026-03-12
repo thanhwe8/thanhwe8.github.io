@@ -2,7 +2,7 @@
 layout: post
 title: "Delta Hedging European Short Call Option"
 date: 2026-03-05 
-categories: [Random posts on mathematical finance]
+categories:  [Quantitative Finance]
 ---
 
 >In this post, let's replicate and hedge short call option when interest rate is assumed to be 0.

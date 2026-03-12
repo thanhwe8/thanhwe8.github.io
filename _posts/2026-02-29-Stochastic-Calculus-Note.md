@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Note on stochastic calculus"
+title: "Note on Stochastic Calculus"
 date: 2026-03-01 
-categories: [Interest Rate Models]
+categories: [Basic Concepts]
 ---
 
 Below are some important note on stochastic calculus when you work with different models. The proof will be provided at the next section sequentially.

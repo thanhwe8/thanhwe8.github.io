@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Interest Rate Models - Chapter 2"
-date:   2026-02-28 19:33:36 -0500
+title:  "Interest Rate Models - Chapter 2: Theory review"
+date:   2026-02-28
 categories: [Interest Rate Models]
 ---
 
