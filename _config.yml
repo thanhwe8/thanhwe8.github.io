@@ -1,11 +1,11 @@
-title: Chim be 11cm - Quant Journal
+title: Chimbe11cm - Daily Quant Journal
 email: thanhwe8@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Dep trai chim be 11cm
+  Deptraichimbe11cm
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: thanhwe8
-github_username:  thanhwe8
+twitter_username: chimbe11cm
+github_username:  chimbe11cm
 
 # Build settings
 markdown: kramdown
